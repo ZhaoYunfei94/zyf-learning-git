@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 ignored_directory2/test2.txt
+ignored_directory1
