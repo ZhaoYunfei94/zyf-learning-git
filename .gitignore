@@ -173,4 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-ignored_directory/test2.txt
+ignored_directory2/test2.txt
