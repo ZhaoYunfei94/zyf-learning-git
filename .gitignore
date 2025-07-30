@@ -173,4 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-被忽略的文件夹2/test.txt
+ignored_directory/test2.txt
