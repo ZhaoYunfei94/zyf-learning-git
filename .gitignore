@@ -175,3 +175,4 @@ cython_debug/
 
 ignored_directory2/test2.txt
 ignored_directory1
+ignored_directory3
