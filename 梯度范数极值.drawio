@@ -2119,7 +2119,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="StVV-m3MwJxm1uY_pVsu" name="main2">
+  <diagram id="StVV-m3MwJxm1uY_pVsu" name="contrast">
     <mxGraphModel dx="1326" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2389,10 +2389,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-195" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 255, 0), rgb(237, 237, 237));&quot;&gt;r1&lt;/font&gt;&lt;/b&gt; x n&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=light-dark(#f96800, #7ebfc4);" vertex="1" parent="1">
-          <mxGeometry x="950" y="1060" width="110" height="50" as="geometry" />
+          <mxGeometry x="1334" y="1280" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-196" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&amp;nbsp;m x &lt;font style=&quot;color: light-dark(rgb(0, 255, 0), rgb(237, 237, 237));&quot;&gt;&lt;b style=&quot;&quot;&gt;r1&lt;/b&gt;&lt;/font&gt;&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=light-dark(#f96800, #7ebfc4);direction=west;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1000" width="110" height="50" as="geometry" />
+          <mxGeometry x="1334" y="1220" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-197" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 255, 0), rgb(237, 237, 237));&quot;&gt;r1&lt;/font&gt;&lt;/b&gt;&amp;nbsp;x n&lt;/sup&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;strokeColor=light-dark(#f96800, #39454e);fontColor=#EEEEEE;fillColor=light-dark(#f96800, #7ebfc4);" vertex="1" parent="1">
           <mxGeometry x="765" y="470" width="80" height="50" as="geometry" />
@@ -2401,22 +2401,31 @@
           <mxGeometry x="765" y="410" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-201" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 255, 0), rgb(237, 237, 237));&quot;&gt;r2&lt;/font&gt;&lt;/b&gt;&amp;nbsp;x n&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=light-dark(#f96800, #7ebfc4);" vertex="1" parent="1">
-          <mxGeometry x="580" y="1160" width="110" height="50" as="geometry" />
+          <mxGeometry x="964" y="1380" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-202" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&amp;nbsp;m x &lt;font style=&quot;color: light-dark(rgb(0, 255, 0), rgb(237, 237, 237));&quot;&gt;&lt;b style=&quot;&quot;&gt;r2&lt;/b&gt;&lt;/font&gt;&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=light-dark(#f96800, #7ebfc4);direction=west;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1100" width="110" height="50" as="geometry" />
+          <mxGeometry x="964" y="1320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-205" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&amp;nbsp;m x&amp;nbsp;&lt;font style=&quot;color: light-dark(rgb(0, 255, 0), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;rj&lt;/b&gt;&lt;/font&gt;&lt;/sup&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=light-dark(#f96800, #7ebfc4);direction=west;" vertex="1" parent="1">
-          <mxGeometry x="774" y="190" width="86" height="70" as="geometry" />
+          <mxGeometry x="765" y="180" width="86" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-206" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 255, 0), rgb(237, 237, 237));&quot;&gt;rj&lt;/font&gt;&lt;/b&gt;&amp;nbsp;x n&lt;/sup&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=light-dark(#f96800, #7ebfc4);direction=east;" vertex="1" parent="1">
-          <mxGeometry x="774" y="240" width="86" height="70" as="geometry" />
+          <mxGeometry x="765" y="230" width="86" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-207" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 255, 0), rgb(237, 237, 237));&quot;&gt;rj&lt;/font&gt;&lt;/b&gt;&amp;nbsp;x n&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=light-dark(#f96800, #7ebfc4);" vertex="1" parent="1">
-          <mxGeometry x="360" y="1020" width="110" height="50" as="geometry" />
+          <mxGeometry x="744" y="1240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-208" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&amp;nbsp;m x &lt;font style=&quot;color: light-dark(rgb(0, 255, 0), rgb(237, 237, 237));&quot;&gt;&lt;b style=&quot;&quot;&gt;rj&lt;/b&gt;&lt;/font&gt;&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=light-dark(#f96800, #7ebfc4);direction=west;" vertex="1" parent="1">
-          <mxGeometry x="360" y="960" width="110" height="50" as="geometry" />
+          <mxGeometry x="744" y="1180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3t95c8QtCGGe7ljX3i5x-2" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;(a) Full Fine-tuning&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="155" y="770" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3t95c8QtCGGe7ljX3i5x-3" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;(b) LoRA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="416" y="770" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3t95c8QtCGGe7ljX3i5x-4" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;(c) mine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="652" y="770" width="136" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
