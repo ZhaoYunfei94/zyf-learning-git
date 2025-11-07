@@ -2120,17 +2120,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="StVV-m3MwJxm1uY_pVsu" name="contrast">
-    <mxGraphModel dx="1326" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O2Izv_2dPLLDy292gRVv-107" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pretrained Matrix&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;W ∈ R&lt;sup&gt;m x n&lt;/sup&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#1ba0e1, #39454e);fontColor=#EEEEEE;fillColor=light-dark(#1ba0e1, #7ebfc4);" vertex="1" parent="1">
           <mxGeometry x="360" y="585" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O2Izv_2dPLLDy292gRVv-108" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;r&lt;/font&gt;&lt;/b&gt;&amp;nbsp;x n&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);" vertex="1" parent="1">
+        <mxCell id="O2Izv_2dPLLDy292gRVv-108" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;font style=&quot;&quot;&gt;r&lt;/font&gt;&amp;nbsp;x n&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);" vertex="1" parent="1">
           <mxGeometry x="480" y="620" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O2Izv_2dPLLDy292gRVv-109" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&amp;nbsp;m x &lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;r&lt;/b&gt;&lt;/font&gt;&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);direction=west;" vertex="1" parent="1">
+        <mxCell id="O2Izv_2dPLLDy292gRVv-109" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&amp;nbsp;m x &lt;font style=&quot;&quot;&gt;r&lt;/font&gt;&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);direction=west;" vertex="1" parent="1">
           <mxGeometry x="480" y="560" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-110" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#ffffff, #39454e);fontColor=#EEEEEE;fillColor=light-dark(#e2c700, #7ebfc4);" vertex="1" parent="1">
@@ -2151,10 +2151,10 @@
         <mxCell id="O2Izv_2dPLLDy292gRVv-114" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pretrained Matrix&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;W ∈ R&lt;sup&gt;m x n&lt;/sup&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#1ba0e1, #39454e);fontColor=#EEEEEE;fillColor=light-dark(#1ba0e1, #7ebfc4);" vertex="1" parent="1">
           <mxGeometry x="360" y="435" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O2Izv_2dPLLDy292gRVv-115" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;r&lt;/font&gt;&lt;/b&gt;&amp;nbsp;x n&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);" vertex="1" parent="1">
+        <mxCell id="O2Izv_2dPLLDy292gRVv-115" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;font style=&quot;&quot;&gt;r&lt;/font&gt;&amp;nbsp;x n&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);" vertex="1" parent="1">
           <mxGeometry x="480" y="470" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O2Izv_2dPLLDy292gRVv-116" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&amp;nbsp;m x &lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;r&lt;/b&gt;&lt;/font&gt;&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);direction=west;" vertex="1" parent="1">
+        <mxCell id="O2Izv_2dPLLDy292gRVv-116" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&amp;nbsp;m x &lt;font style=&quot;&quot;&gt;r&lt;/font&gt;&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);direction=west;" vertex="1" parent="1">
           <mxGeometry x="480" y="410" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-117" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2187,10 +2187,10 @@
         <mxCell id="O2Izv_2dPLLDy292gRVv-122" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pretrained Matrix&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;W ∈ R&lt;sup&gt;m x n&lt;/sup&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#1ba0e1, #39454e);fontColor=#EEEEEE;fillColor=light-dark(#1ba0e1, #7ebfc4);" vertex="1" parent="1">
           <mxGeometry x="360" y="225" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O2Izv_2dPLLDy292gRVv-123" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;r&lt;/font&gt;&lt;/b&gt;&amp;nbsp;x n&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);" vertex="1" parent="1">
+        <mxCell id="O2Izv_2dPLLDy292gRVv-123" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&lt;font style=&quot;&quot;&gt;r&lt;/font&gt;&amp;nbsp;x n&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);" vertex="1" parent="1">
           <mxGeometry x="480" y="260" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O2Izv_2dPLLDy292gRVv-124" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&amp;nbsp;m x &lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;r&lt;/b&gt;&lt;/font&gt;&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);direction=west;" vertex="1" parent="1">
+        <mxCell id="O2Izv_2dPLLDy292gRVv-124" value="W&amp;nbsp;∈ R&amp;nbsp;&lt;sup&gt;&amp;nbsp;m x &lt;font style=&quot;&quot;&gt;r&lt;/font&gt;&lt;/sup&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#FFFFFF;fillColor=light-dark(#f96800, #7ebfc4);direction=west;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2Izv_2dPLLDy292gRVv-125" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
