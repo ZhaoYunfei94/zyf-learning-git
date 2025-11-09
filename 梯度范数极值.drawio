@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9" pages="5">
   <diagram id="B2Tvg_5BqPOZ0n9Uncuu" name="compute_grad">
-    <mxGraphModel dx="3502" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3060" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2282,6 +2282,9 @@
         </mxCell>
         <mxCell id="4_e0IX3svGcJAUH-QsnN-44" value="-0.689" style="whiteSpace=wrap;html=1;aspect=fixed;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="4_e0IX3svGcJAUH-QsnN-23">
           <mxGeometry x="221.21212121212147" y="73.07692307692287" width="35.95959595959596" height="35.95959595959596" as="geometry" />
+        </mxCell>
+        <mxCell id="4_e0IX3svGcJAUH-QsnN-66" value="Euclidean Norm" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="940" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
