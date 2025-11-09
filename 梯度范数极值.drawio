@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9" pages="5">
   <diagram id="B2Tvg_5BqPOZ0n9Uncuu" name="compute_grad">
-    <mxGraphModel dx="4165" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2323" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2292,9 +2292,9 @@
         <mxCell id="OxdwVOOyt4iws0Nj1DMw-4" value="&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 32px;&quot;&gt;$$\frac{\sum_{j=1}^{7}E_{i,j}}{\sum_{i=1}^{n}(\sum_{j=1}^{7}E_{i,j})} * n*r$$&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="OxdwVOOyt4iws0Nj1DMw-10">
           <mxGeometry x="30" y="-4" width="380" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="Y9uUyw3ibjjL4L4eHhTw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kNt_Z6Ec9akM3rNCzPMc-18">
+        <mxCell id="Y9uUyw3ibjjL4L4eHhTw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kNt_Z6Ec9akM3rNCzPMc-18" target="OxdwVOOyt4iws0Nj1DMw-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2070" y="895.3333333333335" as="targetPoint" />
+            <mxPoint x="2070" y="895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kNt_Z6Ec9akM3rNCzPMc-18" value="&lt;span style=&quot;color: rgb(27, 28, 29); font-variant-ligatures: none; text-align: start;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 22px;&quot;&gt;Compute Number of Extremums&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
@@ -2864,7 +2864,7 @@
         <mxCell id="Y9uUyw3ibjjL4L4eHhTw-1" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Comic Sans MS&quot;&gt;The Maximal Transformer Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9bff80, #203a00);strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1700" y="1247" width="320" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="Y9uUyw3ibjjL4L4eHhTw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=320;entryDy=78.2;entryPerimeter=0;" edge="1" parent="1" target="KIsvTQ5AWFxuo2tKreBw-20">
+        <mxCell id="Y9uUyw3ibjjL4L4eHhTw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=320;entryDy=78.2;entryPerimeter=0;exitX=-0.002;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OxdwVOOyt4iws0Nj1DMw-9" target="KIsvTQ5AWFxuo2tKreBw-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2070" y="940" as="sourcePoint" />
           </mxGeometry>
@@ -2943,7 +2943,7 @@
             <mxPoint x="2289.83" y="1186.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IWvFZ1G5bYUBclW3jQXI-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="IWvFZ1G5bYUBclW3jQXI-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1980" y="210" width="540" height="280" as="geometry" />
         </mxCell>
         <mxCell id="IWvFZ1G5bYUBclW3jQXI-71" value="Transformer 1th" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;fontSize=16;align=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
