@@ -2191,7 +2191,7 @@
         <mxCell id="4_e0IX3svGcJAUH-QsnN-22" value="-1.971" style="whiteSpace=wrap;html=1;aspect=fixed;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="4_e0IX3svGcJAUH-QsnN-1">
           <mxGeometry x="221.21212121212147" y="73.07692307692287" width="35.95959595959596" height="35.95959595959596" as="geometry" />
         </mxCell>
-        <mxCell id="4_e0IX3svGcJAUH-QsnN-47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;Up ×&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="4_e0IX3svGcJAUH-QsnN-51">
+        <mxCell id="4_e0IX3svGcJAUH-QsnN-47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px; color: rgb(128, 128, 128);&quot;&gt;Up ×&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="4_e0IX3svGcJAUH-QsnN-51">
           <mxGeometry x="98.59000000000003" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4_e0IX3svGcJAUH-QsnN-56" value="" style="group" vertex="1" connectable="0" parent="4_e0IX3svGcJAUH-QsnN-57">
@@ -2209,7 +2209,7 @@
         <mxCell id="4_e0IX3svGcJAUH-QsnN-50" value="" style="group" vertex="1" connectable="0" parent="4_e0IX3svGcJAUH-QsnN-56">
           <mxGeometry x="52.829999999999984" width="257.1717171717173" height="149.0365190365187" as="geometry" />
         </mxCell>
-        <mxCell id="4_e0IX3svGcJAUH-QsnN-48" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;Up_gradient √&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="4_e0IX3svGcJAUH-QsnN-50">
+        <mxCell id="4_e0IX3svGcJAUH-QsnN-48" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px; color: rgb(153, 153, 0);&quot;&gt;Up_gradient √&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="4_e0IX3svGcJAUH-QsnN-50">
           <mxGeometry x="50" width="157.17" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4_e0IX3svGcJAUH-QsnN-23" value="" style="group" vertex="1" connectable="0" parent="4_e0IX3svGcJAUH-QsnN-50">
